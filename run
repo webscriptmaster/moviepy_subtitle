@@ -1,0 +1,1 @@
+sudo docker run --name web2 -p 8989:5000 -d -it web2
